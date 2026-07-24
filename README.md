@@ -6,6 +6,22 @@
 
 ---
 
+## 📸 Sample Screenshots & UI Interface
+
+### 1. Main Frontend Interface (MRI & Label Viewer)
+![VOXELVIEW Main Frontend Interface](assets/voxelview_frontend.png)
+
+### 2. Tissue & Brain Matter Segmentation (Grey & White Matter Overlay)
+![VOXELVIEW Tissue Segmentation](assets/voxelview_tissue_segmentation.png)
+
+### 3. Output Volume Statistics & Histogram Analysis
+![VOXELVIEW Output Histogram](assets/voxelview_output_histogram.png)
+
+### 4. Interactive 3D Volume & Mesh Rendering
+![VOXELVIEW 3D Mesh Rendering](assets/voxelview_3d_rendering.png)
+
+---
+
 ## 📌 Project Overview
 
 Traditional neuroimaging tools require high-performance hardware, complex local software setup, or server-side data processing that can compromise patient privacy under regulations like GDPR. **VOXELVIEW** provides an accessible, browser-based, client-side solution that allows clinicians, radiologists, and researchers to process 3D NIfTI (`.nii`, `.nii.gz`) structural MRI scans locally on standard devices.
